@@ -19,3 +19,10 @@ in the campus
 - CRUD operations
 - Model View Controller(MVC) design pattern
 - Normalised Database
+
+# Screenshots
+![ComplaintPortal3](https://user-images.githubusercontent.com/37441702/109780172-bf034580-7c2c-11eb-9099-4de79844339e.png)
+![2021-03-03 14_26_16-Integrated Complaint Portal](https://user-images.githubusercontent.com/37441702/109780145-bb6fbe80-7c2c-11eb-9f6d-41920ec18878.png)
+![CP5](https://user-images.githubusercontent.com/37441702/109780153-bc085500-7c2c-11eb-89fb-4a09d35b590c.png)
+![2021-03-03 14_09_37-W3 CSS Template](https://user-images.githubusercontent.com/37441702/109780159-bca0eb80-7c2c-11eb-93fd-2f55541c4e83.png)
+![ComplaintPortal5](https://user-images.githubusercontent.com/37441702/109780160-bd398200-7c2c-11eb-9cd0-08faccb0fbc3.png)
